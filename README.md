@@ -5,7 +5,7 @@ ScreenShoot
 1. Button Save.
 ![ScreenShoot](https://github.com/ai2025/UTS_rental-motor/blob/master/1.jpg "")
 
-2. Apabila data masih belum muncul, tekan tombol Refresh.
+2. Button Clear. Membersihkan semua inputan data oleh user.
 ![ScreenShoot](https://github.com/ai2025/UTS_rental-motor/blob/master/2.jpg "")
 
 3. Button Delete.
